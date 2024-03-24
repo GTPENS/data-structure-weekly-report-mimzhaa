@@ -1,5 +1,5 @@
-//Nama: Marlon Immanuel Sarapang
-//NRP: 5223600010
+// Nama: Marlon Immanuel Sarapang
+// NRP: 5223600010
 
 #include <iostream>
 using namespace std;
