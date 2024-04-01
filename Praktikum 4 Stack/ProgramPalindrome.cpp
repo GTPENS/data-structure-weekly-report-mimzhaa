@@ -1,3 +1,6 @@
+// Nama: Marlon Immanuel Sarapang
+// NRP: 5223600010
+
 #include <iostream>
 #include <stack>
 #include <string>
