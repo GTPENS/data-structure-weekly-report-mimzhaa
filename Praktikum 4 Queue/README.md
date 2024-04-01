@@ -7,7 +7,7 @@
 
 1. **Implementasikan Stack Menggunakan Linked List**
 
-Kelas `ListStack` adalah sebuah representasi dari tumpukan (Stack) yang mengimplementasikan operasi dasar seperti `push` (menambahkan elemen ke dalam tumpukan), `pop` (menghapus elemen dari tumpukan), `peek` (melihat elemen teratas tanpa menghapusnya), `size` (mendapatkan ukuran tumpukan), dan `empty` (memeriksa apakah tumpukan kosong).
+Kelas ListStack adalah sebuah representasi dari tumpukan (Stack) yang mengimplementasikan operasi dasar seperti push (menambahkan elemen ke dalam tumpukan), pop (menghapus elemen dari tumpukan), peek (melihat elemen teratas tanpa menghapusnya), size (mendapatkan ukuran tumpukan), dan empty (memeriksa apakah tumpukan kosong).
 
 ```cpp
 #include <iostream>
